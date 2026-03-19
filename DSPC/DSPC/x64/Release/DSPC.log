@@ -1,0 +1,17 @@
+﻿  cp_denoising_mpi.cpp
+  cp_denoising_omp.cpp
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_omp.cpp(51,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_omp.cpp(81,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_omp.cpp(91,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_omp.cpp(101,13): warning C4849: OpenMP 'collapse' clause ignored in 'parallel for' directive
+  cp_denoising_sequential.cpp
+  mainprog.cpp
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\mainprog.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\mainprog.cpp(19,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\mainprog.cpp(20,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\mainprog.cpp(21,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 491 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DSPC.vcxproj -> C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\x64\Release\DSPC.exe

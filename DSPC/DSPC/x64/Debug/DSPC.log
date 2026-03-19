@@ -1,0 +1,6 @@
+﻿  cp_denoising_mpi.cpp
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_mpi.cpp(143,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_mpi.cpp(144,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_mpi.cpp(145,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\cp_denoising_mpi.cpp(146,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DSPC.vcxproj -> C:\Users\Johnny BKF\Desktop\dspc ass\DSPC\x64\Debug\DSPC.exe
