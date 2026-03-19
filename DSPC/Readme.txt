@@ -1,5 +1,5 @@
 Readme
-1. download mpi, need to set Environment Variables, no need set project properties  https://docs.google.com/document/d/17Ei-3-tBYi44KhmJ8q5XWQnCgnStZ9ao6jLpZEtxmjI/edit?pli=1&tab=t.0
+1. download mpi, need to set Environment Variables, no need set project properties
 2. Run in terminal
 pip install datasets
 pip install scikit-image
